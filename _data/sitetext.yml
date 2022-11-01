@@ -1,0 +1,125 @@
+header:
+  title: Welcome to Brainhack Global 2022 Australasia - Sydney!
+  text: Nov 30 - Dec 2
+  button: Register (Eventbrite)
+  buttonlink: "https://www.eventbrite.com/e/brainhack-australasia-2022-tickets-432422065037"
+
+about:
+  title: "About"
+  section: about
+  image: assets/img/animals-hacking.jpg
+  text: What is a BrainHack anyway?
+  imagetext: <a href="https://openai.com/dall-e-2/">Dall-E</a> impression of what an Australasian BrainHack is about
+  subsections:
+    - title: BrainHack Org
+      body: "The purpose of the Brainhack organistaion is to bridge the data science and
+          neuroscience research communities to advance the progress of
+          neuroscience. Brainhack is a unique conference that
+          convenes researchers from across the globe and myriad
+          disciplines to work together on innovative projects related
+          to neuroscience."
+    - title: BrainHack Global 2022
+      body: "BrainHack Global (BHG) is a hackathon consisting of many
+          <a href=\"https://brainhack.org/global2022/events/\">local events</a>
+          in different regions around the world. Sign up to be involved with any of the
+          <a href=\"https://brainhack.org/global2022/projects/\">international projects</a>
+          and connect with peers in the Australasia Hub for advice,
+          training and social meet-ups."
+    - title: Code of conduct
+      body: "Brainhack Global is dedicated to a harassment-free conference
+          experience for everyone. Our anti-harassment policy can be
+          found here: <a href=\"http://www.brainhack.org/code-of-conduct.html\">Code of
+          Conduct</a>"
+
+venue:
+  title: VENUE
+  text: The first in-person Australasian event!
+  name: The University of Sydney Business School
+  image: assets/img/sydney-business-school.png
+  map: assets/img/venue-map.png
+  link: https://www.sydney.edu.au/business/about/location-and-facilities.html
+  maplink: https://goo.gl/maps/KkAsRHYk569oUMxF7
+  address: Abercrombie Building H70, Corner Abercrombie Street and, Codrington St, Darlington NSW 2006
+
+projects:
+  title: FEATURED PROJECTS
+  text: Interesting projects from past hackathons
+  section: projects
+
+
+hacktrack:
+  title: "JOINING IN"
+  text: "Form collaborations in Australia and around the world"
+  register: https://uqz.zoom.us/meeting/register/tZYof-6hqzItGNDIc1_g8ninsuLFDstlOpRO
+  section: hacktrack
+  items:
+    - name: "Guidelines"
+      description: "How to contribute"
+      image: assets/img/guidelines.jpg
+      link: https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md
+    - name: "Submitted projects"
+      description: "The list of projects that have been proposed"
+      image: assets/img/bh_logo.png
+      link: https://brainhack.org/global2022/projects/
+    - name: "New project"
+      description: "Submit your own proposal here"
+      image: assets/img/new-project.jpg
+      link: https://github.com/brainhackorg/global2022/issues/new?assignees=&labels=project&template=project-submission-template.yml
+
+
+sponsors:
+  title: "SPONSORS"
+  section: sponsors
+  text: We would like to kindly thank
+  items:
+    - name: "National Imaging Facility (NIF)"
+      image: assets/img/nif-logo-landscape-monowhite-transparent.png
+      link: https://anif.org.au/
+      description: >-
+        The National Imaging Facility (NIF) provides open access to flagship imaging
+        equipment, expertise, tools, data and analysis within Australia’s strategic
+        science and research priorities. NIF has generously supplied funds,
+        and staff time to help organise and promote the hackathon.
+    - name: "Oracle for Research"
+      image: assets/img/oracle.png
+      link: https://www.oracle.com/au/research/
+      description: >-
+        Oracle for Research supports academic, educational, and institutional researchers
+        in all aspects of discovery. We've made it simple for them to host, store and
+        analyze their data with our cloud infrastructure solutions. Our research
+        customers are changing the world - and we're proud to help them do it. Orcale for
+        Research has generously donated cloud credits to support BrainHack Global events.
+    - name: "The University of Sydney"
+      image: assets/img/UoS-RGB-standard-logo-mono-reversed.png
+      link: https://www.sydney.edu.au/
+      description: >-
+        The University of Sydney is one of the best universities in Australia, and is
+        consistently ranked in the top 50 universities in the world. The university is
+        providing multi-purpose rooms in the The University of Sydney Business school
+        as the venue for the hackathon, in addition to staff time to support the
+        organisation of the workshop.
+    - name: "Australian Characterisation Commons at Scale (ACCS)"
+      image: assets/img/accs-logo.png
+      link: https://twitter.com/cdatacommons
+      description: >-
+        The Australian Characterisation Commons at Scale (ACCS) Project is a data
+        infrastructure project that aids researchers to find, access and interact with
+        digital characterisation data and resources with ease. The ACCS Project is
+        supported by the Australian Research Data Commons (ARDC).
+
+
+schedule:
+  section: schedule
+  title: "Schedule"
+  text: What's happening
+
+
+footer:
+  legal: "Title image generated by <a href=\"https://openai.com/dall-e-2/\">Dall-E</a>"
+  social:
+    - url: https://twitter.com/hashtag/brainhack-aus
+      icon: "fab fa-twitter"
+    - url: https://github.com/brainhackorg/global2022
+      icon: "fab fa-github"
+    - url: https://www.instagram.com/brainhack_global/
+      icon: "fab fa-instagram"

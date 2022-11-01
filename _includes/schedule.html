@@ -1,0 +1,49 @@
+<!-- Schedule -->
+<section class="page-section" id="{{ site.data.sitetext.schedule.section | default: schedule }}">
+  <div class="container schedule">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.schedule.title | markdownify | default: Schedule }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.schedule.text }}</h3>
+      </div>
+    </div>
+    <!-- <div class="row">
+      <div class="col-lg-12 calendar text-center">
+        <img src="assets/img/calendar.png"/>
+      </div>
+    </div> -->
+    {%- for day in site.data.schedule -%}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+          <div class="day-heading col-md-12 text-center">
+            <h4>{{ day.name }}</h4>
+          </div>
+        </div>
+        {%- for event in day.events -%}
+        <div class="row">
+          <div class="col-md-2">
+          </div>
+          <div class="col-md-2">
+            {{ event.starttime | date: "%H:%M" }} -
+            {{ event.endtime | date: "%H:%M" }}
+          </div>
+          <!-- <div class="col-md-2">
+            {{ event.starttime | date: "%s" | plus: 3600 | date: "%H:%M" }} -
+            {{ event.endtime | date: "%s" | plus: 3600 | date: "%H:%M" }} AEDT
+          </div>
+          <div class="col-md-2">
+            {{ event.starttime | date: "%s" |plus: -7200 | date: "%H:%M" }} -
+            {{ event.endtime | date: "%s" | plus: -7200 | date: "%H:%M" }} AWST
+          </div> -->
+          <div class="col-md-8">
+            {{ event.title }}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+<!-- End About -->

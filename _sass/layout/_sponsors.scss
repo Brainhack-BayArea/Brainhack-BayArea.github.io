@@ -1,0 +1,17 @@
+// Styling for the team section
+.sponsors-item {
+  margin-bottom: 50px;
+  text-align: center;
+  img {
+    height: 125px;
+    border: 7px solid fade-out($black, 0.9);
+  }
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+}
