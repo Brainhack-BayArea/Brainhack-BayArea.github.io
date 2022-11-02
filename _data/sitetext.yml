@@ -7,9 +7,9 @@ header:
 about:
   title: "About"
   section: about
-  image: assets/img/animals-hacking.jpg
+  image: assets/img/brainhack_bay_area.png
   text: What is a BrainHack anyway?
-  imagetext: <a href="https://openai.com/dall-e-2/">Dall-E</a> impression of what an Australasian BrainHack is about
+  imagetext: <a href="https://openai.com/dall-e-2/">Dall-E</a> impression of what a Bay Area brainhack is about
   subsections:
     - title: BrainHack Org
       body: "The purpose of the Brainhack organistaion is to bridge the data science and
