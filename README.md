@@ -1,5 +1,5 @@
 # global2022
-Website for Brainhack Global 2022 - Australasia
+Website for Brainhack Global 2022 - Bay Area
 
 To run install Ruby+Jekyll
 
