@@ -1,4 +1,4 @@
-- name: "Wednesday, November 30"
+- name: "Thursday, December 8"
   events:
     - starttime: 2022-11-30T9:00:00+11:00
       endtime:  2022-11-30T10:00:00+11:00
@@ -15,26 +15,8 @@
     - starttime: 2022-11-30T19:00:00+11:00
       endtime: 2022-11-30T22:00:00+11:00
       title: Social
-    
-- name: "Thursday, December 1"
-  events:
-    - starttime: 2022-12-01T9:00:00+11:00
-      endtime:  2022-12-01T10:00:00+11:00
-      title: Breakfast
-    - starttime: 2022-12-01T10:00:00+11:00
-      endtime: 2022-12-01T12:00:00+11:00
-      title: Hacking
-    - starttime: 2022-12-01T12:00:00+11:00
-      endtime:  2022-12-01T13:00:00+11:00
-      title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-12-01T18:00:00+11:00
-      title: Hacking
-    - starttime: 2022-11-30T19:00:00+11:00
-      endtime: 2022-12-01T21:00:00+11:00
-      title: DIY activities (e.g. bouldering with Kel & Chris)
 
-- name: "Friday, December 2"
+- name: "Friday, December 9"
   events:
     - starttime: 2022-12-02T9:00:00+11:00
       endtime:  2022-12-02T10:00:00+11:00
