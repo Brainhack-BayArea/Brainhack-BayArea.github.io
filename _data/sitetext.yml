@@ -33,13 +33,13 @@ about:
 
 venue:
   title: VENUE
-  text: 
+  text: Nancy Friend Pritzker Psychiatry Building
   name: University Of California San Francisco (UCSF)
   image: assets/img/ucsf.png
-  map: assets/img/venue-map.png
+  map: assets/img/Pritzkerbldg_img.jpeg
   link: https://www.ucsf.edu/
-  maplink: https://goo.gl/maps/nKcn5cEYRra6FT5M9
-  address: 675 Nelson Rising Ln, San Francisco, CA 94158
+  maplink: https://goo.gl/maps/mg7pqUc5TRPY6rBEA
+  address: 675 18th St, San Francisco, CA 94107ven
 
 projects:
   title: FEATURED PROJECTS
