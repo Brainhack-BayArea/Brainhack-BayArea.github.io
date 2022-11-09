@@ -77,7 +77,12 @@ sponsors:
       link: https://openneuro.org
       description: >-
         OpenNeuro is a A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data. OpenNeuro has generously supplied funds to help organise and promote the hackathon.
-
+        items:
+    - name: "UCSF Dyslexia Center"
+      image: assets/img/UCSFDCMultitudes.jpg
+      link: https://dyslexia.ucsf.edu/
+      description: >-
+        Mission of UCSF Dyslexia Center is to eliminate the debilitating effects of developmental dyslexia while preserving and even enhancing the relative strengths of each individual.
 
 schedule:
   section: schedule
