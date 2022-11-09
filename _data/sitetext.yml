@@ -77,6 +77,16 @@ sponsors:
       link: https://openneuro.org
       description: >-
         OpenNeuro is a A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data. OpenNeuro has generously supplied funds to help organise and promote the hackathon.
+    - name: "UCSF Dyslexia Center"
+      image: 
+      link: https://dyslexia.ucsf.edu/
+      description: >-
+        UCSF Dyslexia Center is dedicated to empowering those with dyslexia through the lifespan. The Center has generously supplied funds to help organise and promote the hackathon.
+    - name: "Multitudes"
+      image: 
+      link: https://dyslexia.ucsf.edu/multitudes-partners
+      description: >-
+        Multitudes is a neuroscience-based initiative to flag early reading challenges. Multitudes has generously supplied funds to help organise and promote the hackathon.
 
 
 schedule:
