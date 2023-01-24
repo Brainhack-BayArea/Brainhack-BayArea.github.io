@@ -1,38 +1,44 @@
-- name: "Thursday, December 8"
+- name: "Thursday, February 9"
   events:
-    - starttime: 2022-11-30T9:00:00+11:00
-      endtime:  2022-11-30T10:00:00+11:00
+    - starttime: 2023-02-09T9:00:00+11:00
+      endtime:  2023-02-09T10:00:00+11:00
       title: Meet, greet & breakfast
-    - starttime: 2022-11-30T10:00:00+11:00
-      endtime:  2022-11-30T12:00:00+11:00
+    - starttime: 2023-02-09T10:00:00+11:00
+      endtime:  2023-02-09T12:00:00+11:00
       title: Project pitches and team formation
-    - starttime: 2022-11-30T12:00:00+11:00
-      endtime:  2022-11-30T13:00:00+11:00
+    - starttime: 2023-02-09T12:00:00+11:00
+      endtime:  2023-02-09T13:00:00+11:00
       title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-11-30T18:00:00+11:00
-      title: Hacking
-    - starttime: 2022-11-30T19:00:00+11:00
-      endtime: 2022-11-30T22:00:00+11:00
+    - starttime: 2023-02-09T13:00:00+11:00
+      endtime: 2023-02-09T15:00:00+11:00
+      title: Tutorial 1 / Open Hacking
+    - starttime: 2023-02-09T15:00:00+11:00
+      endtime: 2023-02-09T16:00:00+11:00
+      title: Coffee Break / Open Hacking
+    - starttime: 2023-02-09T16:00:00+11:00
+      endtime: 2023-02-09T18:00:00+11:00
+      title: Tutorial 2 / Open Hacking
+    - starttime: 2023-02-09T19:00:00+11:00
+      endtime: 2023-02-09T21:00:00+11:00
       title: Social
-
-- name: "Friday, December 9"
+     
+- name: "Friday, February 10"
   events:
-    - starttime: 2022-12-02T9:00:00+11:00
-      endtime:  2022-12-02T10:00:00+11:00
+    - starttime: 2023-02-10T9:00:00+11:00
+      endtime:  2023-02-10T10:00:00+11:00
       title: Breakfast
-    - starttime: 2022-12-01T10:00:00+11:00
-      endtime: 2022-12-01T12:00:00+11:00
-      title: Hacking
-    - starttime: 2022-12-01T12:00:00+11:00
-      endtime:  2022-12-01T13:00:00+11:00
-      title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-12-01T15:00:00+11:00
-      title: Hacking
-    - starttime: 2022-12-02T15:00:00+11:00
-      endtime: 2022-12-01T16:00:00+11:00
-      title: Project demos
-    - starttime: 2022-12-02T16:00:00+11:00
-      endtime: 2022-12-01T18:00:00+11:00
-      title: DIY drinks
+    - starttime: 2023-02-10T10:00:00+11:00
+      endtime:  2023-02-10T12:00:00+11:00
+      title: Tutorial 3 / Open Hacking
+    - starttime: 2023-02-10T12:00:00+11:00
+      endtime:  2023-02-10T13:00:00+11:00
+      title: Lunch
+    - starttime: 2023-02-10T13:00:00+11:00
+      endtime: 2023-02-10T15:00:00+11:00
+      title: Open Hacking
+    - starttime: 2023-02-10T15:00:00+11:00
+      endtime: 2023-02-10T16:00:00+11:00
+      title: Coffee Break / Open Hacking
+    - starttime: 2023-02-10T16:00:00+11:00
+      endtime: 2023-02-10T18:00:00+11:00
+      title: Project Wrap Ups / Demos
