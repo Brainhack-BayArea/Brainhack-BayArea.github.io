@@ -39,6 +39,20 @@
       Proposed as a project at the 2021 BrainHack Global Marseille event, BIDS-ephys is
       an extension proposal so that BIDS (a standardized data structure described here)
       can support electrophysiological data recorded in animal models.    
-
+- title: NeuroCausal
+  name: neuro_causal
+  img: neuro_causal.png
+  link: https://neurocausal.github.io/
+  bh_link: https://brainhack.org/global2022/project/project_67/
+  thumbnail: neuro_causal.png
+  people: Valentina Borghesani, Isil Poyraz Bilgin, Sladjana Lukic, and Pedro Pinheiro-Chagas
+  short_desc: >-
+      An open data sharing and metadata synthesis platform for clinical data
+  description: >-
+      Proposed at 2022 BrainHack Donostia, BrainHack Geneva and BrainHack Bay Area, 
+      NeuroCausal is an open source platform for the storage, sharing, synthesis 
+      and meta-analysis of human clinical data to the service of the clinical and 
+      cognitive neuroscience community so that the future of neuropsychology can be 
+      transdiagnostic, open, and FAIR.
 
 
