@@ -11,13 +11,13 @@
       title: Lunch  
     - starttime: 2023-02-09T13:00:00+11:00
       endtime: 2023-02-09T15:00:00+11:00
-      title: Tutorial 1 / Open Hacking
+      title: Tutorial 1: Russ Poldrack - Clean Coding in Python / Open Hacking
     - starttime: 2023-02-09T15:00:00+11:00
       endtime: 2023-02-09T16:00:00+11:00
       title: Coffee Break / Open Hacking
     - starttime: 2023-02-09T16:00:00+11:00
       endtime: 2023-02-09T18:00:00+11:00
-      title: Tutorial 2 / Open Hacking
+      title: Tutorial 2: Elizabeth DuPre - Using nilearn / Open Hacking
     - starttime: 2023-02-09T19:00:00+11:00
       endtime: 2023-02-09T21:00:00+11:00
       title: Social
@@ -29,7 +29,7 @@
       title: Breakfast
     - starttime: 2023-02-10T10:00:00+11:00
       endtime:  2023-02-10T12:00:00+11:00
-      title: Tutorial 3 / Open Hacking
+      title: Tutorial 3: Matteo Visconti di Oleggio Castello - Voxelwise Modeling / Open Hacking
     - starttime: 2023-02-10T12:00:00+11:00
       endtime:  2023-02-10T13:00:00+11:00
       title: Lunch
